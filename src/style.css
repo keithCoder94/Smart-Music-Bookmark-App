@@ -1,0 +1,28 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  background-size: 100%;
+  background-image: url(https://www.desktopbackground.org/download/720x1280/2011/08/10/247829_plain-color-hd-wallpapers-plain-color-hd-wallpapers-with_2560x1600_h.jpg);
+  padding-left:100px ;
+  padding-right: 100px;
+  font-weight: bold;
+  color: rgba(3, 255, 255, 0.925);
+  
+  padding-top: 100px;
+
+  
+}
+.card{
+  color: #010102;
+  
+}
+
+.button{
+  background-color: #18181d;
+}
+
+ h2 {
+   text-align: justify;
+   font-weight: 100px;
+   
+}
